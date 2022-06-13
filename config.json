@@ -85,7 +85,7 @@
     },
     {
       "tag": "api",
-      "port": 50729,
+      "port": 53382,
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "settings": {
@@ -102,11 +102,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "nice.theappledog.site",
-            "port": 58273,
+            "address": "dance.theappledog.site",
+            "port": 39951,
             "users": [
               {
-                "id": "b0558971-0a48-4958-900a-3491df27d3ae",
+                "id": "507f647e-d3f9-4bc4-bea4-f02c9edabb01",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
