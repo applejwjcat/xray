@@ -13,7 +13,7 @@
   "inbounds": [
     {
       "tag": "socks",
-      "port": 10808,
+      "port": 45678,
       "listen": "127.0.0.1",
       "protocol": "socks",
       "sniffing": {
@@ -31,7 +31,7 @@
     },
     {
       "tag": "http",
-      "port": 10809,
+      "port": 7890,
       "listen": "127.0.0.1",
       "protocol": "http",
       "sniffing": {
@@ -49,7 +49,7 @@
     },
     {
       "tag": "socks2",
-      "port": 10810,
+      "port": 45679,
       "listen": "0.0.0.0",
       "protocol": "socks",
       "sniffing": {
@@ -67,7 +67,7 @@
     },
     {
       "tag": "http2",
-      "port": 10811,
+      "port": 7891,
       "listen": "0.0.0.0",
       "protocol": "http",
       "sniffing": {
